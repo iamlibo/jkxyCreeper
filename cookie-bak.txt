@@ -1,0 +1,21 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.jikexueyuan.com	FALSE	/	FALSE		QINGCLOUDELB	84b10773c6746376c2c7ad1fac354ddfd562b81daa2a899c46d3a1e304c7eb2b|V/Ijq|V/Ijq
+www.jikexueyuan.com	FALSE	/	FALSE		connect.sid	s%3AOUd3WeA0XPaU9ps9EzykhdSikwDpgOcp.GKKWKYZahPZ0ehUdWlWYC%2BZX%2Bcy0Z%2F8pV%2BtojUSSoyk
+.jikexueyuan.com FALSE	/	FALSE		vip_status	1
+.jikexueyuan.com FALSE	/	FALSE		level_id	2
+.jikexueyuan.com FALSE	/	FALSE		is_expire	0
+.jikexueyuan.com FALSE	/	FALSE		gr_user_id	9f0a5c92-3c2f-453e-932e-d5015e48586b
+.jikexueyuan.com FALSE	/	FALSE		uname	yodato
+.jikexueyuan.com FALSE	/	FALSE		gr_session_id_aacd01fff9535e79	f7eed87f-5212-49c9-9150-cb78c6e36d4c
+.jikexueyuan.com FALSE	/	FALSE		_ga	GA1.2.1088669291.1475485033
+.jikexueyuan.com FALSE	/	FALSE		_gat	1
+.jikexueyuan.com FALSE	/	FALSE		authcode	03281%2B3YDder4ImrakfyEjsfBYRrqTiwUAAeplZ2GXFKI2cnuPRX3vSKurpFwT%2BwhuL7jzTHRfbmJOsE3P%2BnLB7ST2v%2BwmU2%2F3odMcg12cH3WRvU18h8pI2B
+.jikexueyuan.com FALSE	/	FALSE		uid	4166529
+.jikexueyuan.com FALSE	/	FALSE		ca_status	0
+.jikexueyuan.com FALSE	/	FALSE		code	WMXIDB
+.jikexueyuan.com FALSE	/	FALSE		gr_cs1_f7eed87f-5212-49c9-9150-cb78c6e36d4c	uid%3A4166529
+.jikexueyuan.com FALSE	/	FALSE		domain	yodato
+.jikexueyuan.com FALSE	/	FALSE		avatar	http%3A%2F%2Fassets.jikexueyuan.com%2Fuser%2Favtar%2Fdefault.gif
